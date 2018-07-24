@@ -1,4 +1,4 @@
-package org.logan.design.mode.proxy;
+package org.logan.design.mode.struct.proxy;
 
 /**
  * desc: 测试代理模式<br/>

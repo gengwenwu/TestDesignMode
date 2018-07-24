@@ -1,4 +1,4 @@
-package org.logan.design.mode.proxy;
+package org.logan.design.mode.struct.proxy;
 
 /**
  * desc: 轻量级对象，替代DBQuery位置 <br/>

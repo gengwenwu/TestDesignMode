@@ -1,4 +1,4 @@
-package org.logan.design.mode.singleton;
+package org.logan.design.mode.creator.singleton;
 
 import java.io.Serializable;
 

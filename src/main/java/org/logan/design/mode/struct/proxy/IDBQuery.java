@@ -1,4 +1,4 @@
-package org.logan.design.mode.proxy;
+package org.logan.design.mode.struct.proxy;
 
 /**
  * desc: 数据库查询通用接口 <br/>

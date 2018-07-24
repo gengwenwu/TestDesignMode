@@ -1,4 +1,4 @@
-package org.logan.design.mode.singleton;
+package org.logan.design.mode.creator.singleton;
 
 /**
  * desc: 饿加载方式单例 <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.singleton;
+package org.logan.design.mode.creator.singleton;
 
 /**
  * desc: 单例最佳方案。 <br/>
