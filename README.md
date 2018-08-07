@@ -31,7 +31,7 @@ Christopher Alexander 说过：“每一个模式描述了一个在我们周围�
 11. Memento（备忘录模式，使用频率1星）：在不破坏对象的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。  
 
 ## 五，结构型  
-1. Composite（组合模式，使用频率5星）：将对象组合成树形结构以表示部分整体的关系，Composite使得用户对单个对象和组合对象的使用具有一致性。       
+1. ** Composite **（组合模式，使用频率5星）：将对象组合成树形结构以表示部分整体的关系，Composite使得用户对单个对象和组合对象的使用具有一致性。       
 2. **Facade**（外观模式，使用频率5星）：为子系统中的一组接口提供一致的界面(门面类)，门面类提供了一高层接口，这个接口使得子系统更容易使用。       
 3. **Proxy**（代理模式，使用频率5星）：为其他对象提供一种代理以控制对这个对象的访问 。  
 4. Adapter（适配器模式，使用频率4星）：将一类的接口转换成客户希望的另外一个接口，Adapter模式使得原本由于接口不兼容而不能一起工作那些类可以一起工作。       
@@ -40,5 +40,7 @@ Christopher Alexander 说过：“每一个模式描述了一个在我们周围�
 7. Flyweight（享元模式，使用频率2星）：运用共享技术有效地支持大量细粒度的对象。  
 
 参考：  
-http://blog.csdn.net/longronglin/article/details/1454315 (里面有很多例子)
+http://blog.csdn.net/longronglin/article/details/1454315 (结构图)
+http://www.runoob.com/design-pattern/design-pattern-tutorial.html (简单例子)
+
 
