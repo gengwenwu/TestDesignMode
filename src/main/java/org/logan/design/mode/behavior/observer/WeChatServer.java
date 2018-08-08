@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.observer;
+package org.logan.design.mode.behavior.observer;
 
 import java.util.ArrayList;
 import java.util.List;

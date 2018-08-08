@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.templatemethod;
+package org.logan.design.mode.behavior.templatemethod;
 
 /**
  * desc: 测试模版方法 <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.strategy;
+package org.logan.design.mode.behavior.strategy;
 
 /**
  * desc: 策略：减法 <br/>

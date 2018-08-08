@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.observer;
+package org.logan.design.mode.behavior.observer;
 
 /**
  * desc: 抽象被观察者 <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.observer;
+package org.logan.design.mode.behavior.observer;
 
 /**
  * desc: 观察者模式调用客户端 <br/>

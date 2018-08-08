@@ -1,4 +1,4 @@
-package org.logan.design.mode.action.strategy;
+package org.logan.design.mode.behavior.strategy;
 
 /**
  * desc: 抽象策略接口 <br/>
