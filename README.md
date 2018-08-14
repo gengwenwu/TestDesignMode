@@ -40,7 +40,7 @@ Christopher Alexander 说过：“每一个模式描述了一个在我们周围�
 7. Flyweight（享元模式，使用频率2星）：运用共享技术有效地支持大量细粒度的对象。  
 
 参考：  
-http://blog.csdn.net/longronglin/article/details/1454315 (结构图)
+http://blog.csdn.net/longronglin/article/details/1454315 (结构图)  
 http://www.runoob.com/design-pattern/design-pattern-tutorial.html (简单例子)
 
 
