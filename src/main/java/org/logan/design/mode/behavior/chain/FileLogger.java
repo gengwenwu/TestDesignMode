@@ -1,4 +1,4 @@
-package org.logan.design.mode.behavior.chain.log;
+package org.logan.design.mode.behavior.chain;
 
 /**
  * desc: 文件日志记录器  <br/>
