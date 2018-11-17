@@ -1,4 +1,4 @@
-package org.logan.design.mode.behavior.chain;
+package org.logan.design.mode.behavior.chain.log;
 
 /**
  * desc: Log 级别 <br/>

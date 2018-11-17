@@ -1,4 +1,4 @@
-package org.logan.design.mode.behavior.chain;
+package org.logan.design.mode.behavior.chain.log;
 
 /**
  * desc: 责任链模式 (Chain of Responsibility) - 调用客户端 <br/>
