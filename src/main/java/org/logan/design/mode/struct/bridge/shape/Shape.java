@@ -1,4 +1,4 @@
-package org.logan.design.mode.struct.bridge;
+package org.logan.design.mode.struct.bridge.shape;
 
 /**
  * desc: 使用 DrawAPI 接口创建抽象类 Shape <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.struct.bridge;
+package org.logan.design.mode.struct.bridge.shape;
 
 /**
  * desc: 正方形绘画API - 桥接实现接口 <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.struct.bridge;
+package org.logan.design.mode.struct.bridge.shape;
 
 /**
  * desc: 桥接模式-调用客户端 <br/>

@@ -1,4 +1,4 @@
-package org.logan.design.mode.struct.bridge;
+package org.logan.design.mode.struct.bridge.shape;
 
 /**
  * desc: 红色正方形 <br/>
