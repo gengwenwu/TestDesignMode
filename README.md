@@ -36,11 +36,13 @@ Christopher Alexander 说过：“每一个模式描述了一个在我们周围�
 3. **Proxy**（代理模式，使用频率5星）：为其他对象提供一种代理以控制对这个对象的访问 。  
 4. **Adapter**（适配器模式，使用频率4星）：将一类的接口转换成客户希望的另外一个接口，Adapter模式使得原本由于接口不兼容而不能一起工作那些类可以一起工作。       
 5. **Decrator**（装饰模式，使用频率4星）：动态地给一个对象增加一些额外的职责，就增加的功能来说，Decorator模式相比生成子类更加灵活。  
-6. Bridge（桥模式，使用频率3星）：将抽象部分与它的实现部分相分离，使他们可以独立的变化。  
+6. **Bridge**（桥模式，使用频率3星）：将抽象部分与它的实现部分相分离，使他们可以独立的变化。  
 7. Flyweight（享元模式，使用频率2星）：运用共享技术有效地支持大量细粒度的对象。  
 
 参考：  
-http://blog.csdn.net/longronglin/article/details/1454315 (结构图)  
-http://www.runoob.com/design-pattern/design-pattern-tutorial.html (简单例子)
+// 结构图  
+http://blog.csdn.net/longronglin/article/details/1454315  
+// 简单例子  
+http://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 
